@@ -128,4 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.idea
+.idea/
+
+.logs/
+.model/
+.284285_585165_bundle_archive.zip
+./data/
